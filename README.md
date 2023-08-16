@@ -9,28 +9,18 @@ To achieve the following project, we are going to use different large datasets s
 ### Dataset We are going to consider it later for testing in real-world the model, with a dataset unseen for the model, since is not labeled as a fraudulent or legit transaction, this is going to help to identify how the model performs in an unseen scenario. 
 
 
-Dataset 1 (Column date, TransID)
-https://datahub.io/machine-learning/creditcard#readme
--September 2013 (occurred) 
--Date 25-26th of June 2015 (Published)
--284807 rows
-
-Dataset 2 
-https://www.kaggle.com/datasets/adityakadiwal/credit-card-fraudulent-transactions
--94682 rows
-
-Dataset 3
+Dataset 1
 https://www.datacamp.com/workspace/datasets/dataset-python-credit-card-fraud
 -Date 2019-01-01 00:00:44 to 2020-12-31 23:59:24
 -339607 rows 
 
-Dataset 4 
+Dataset 2
 https://usmart.io/org/deloitte/discovery/discovery-view-detail/17881c8f-4fa2-4832-99ea-eb2f4033eac2
 Data updated: 19/3/2018
 -6362619 rows
 -step: step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 743 (30 days simulation).
 
-Dataset 5 
+Dataset 3 
 https://data.gov.ie/dataset/cbm03-detailed-daily-card-payments/resource/bf7cfa88-5d7b-4139-a3f9-a7216d9fd07e?inner_span=True
 Date: 01/03/2020 to 01/02/2021
  -9464 rows 
