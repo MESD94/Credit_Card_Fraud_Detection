@@ -19,8 +19,3 @@ https://usmart.io/org/deloitte/discovery/discovery-view-detail/17881c8f-4fa2-483
 Data updated: 19/3/2018
 -6362619 rows
 -step: step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 743 (30 days simulation).
-
-Dataset 3 
-https://data.gov.ie/dataset/cbm03-detailed-daily-card-payments/resource/bf7cfa88-5d7b-4139-a3f9-a7216d9fd07e?inner_span=True
-Date: 01/03/2020 to 01/02/2021
- -9464 rows 
